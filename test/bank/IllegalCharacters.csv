@@ -1,0 +1,46 @@
+    --- Legal accountHolder Strings appended with illegal characters    ---
+    --- For use in BankTest.java as @ParameterizedTest                  ---
+
+
+John Appleseed!
+John Appleseed"                                                                          
+John Appleseed#                                                                          
+John Appleseed$                                                                          
+John Appleseed%                                                                          
+John Appleseed&                                                                          
+
+John Appleseed(
+John Appleseed)                                                                          
+John Appleseed*                                                                          
+John Appleseed+                                                                          
+John Appleseed,                                                                          
+
+
+John Appleseed/
+John Appleseed0                                                                          
+John Appleseed1                                                                          
+John Appleseed2                                                                          
+John Appleseed3                                                                          
+John Appleseed4                                                                          
+John Appleseed5                                                                          
+John Appleseed6                                                                          
+John Appleseed7                                                                          
+John Appleseed8                                                                          
+John Appleseed9                                                                          
+John Appleseed:                                                                          
+John Appleseed;                                                                          
+John Appleseed<                                                                          
+John Appleseed=                                                                          
+John Appleseed>                                                                          
+John Appleseed?                                                                          
+John Appleseed@                                                                          
+John Appleseed[                                                                          
+John Appleseed\                                                                          
+John Appleseed]                                                                          
+John Appleseed^                                                                          
+John Appleseed_                                                                          
+John Appleseed`                                                                          
+John Appleseed{                                                                          
+John Appleseed|                                                                          
+John Appleseed}                                                                          
+John Appleseed~
